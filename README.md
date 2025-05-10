@@ -1,2 +1,2 @@
 # cursor.env
-The modern Cursor-enabled developer environment.
+A modern developer environment for Cursor.
